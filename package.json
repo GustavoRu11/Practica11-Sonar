@@ -1,0 +1,11 @@
+{
+  "name": "practica11-sonar",
+  "version": "1.0.0",
+  "description": "Proyecto web con fallos intencionales para analisis estatico con Sonar",
+  "main": "app.js",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.0"
+  }
+}
